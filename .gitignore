@@ -1,7 +1,9 @@
 node_modules
 package-lock.json
+.venv/*
 
 # Eleventy build
 _dist
 _cache
 /_src/localStyles
+venv/pyvenv.cfg
