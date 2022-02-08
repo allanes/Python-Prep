@@ -6,4 +6,3 @@ package-lock.json
 _dist
 _cache
 /_src/localStyles
-venv/pyvenv.cfg
